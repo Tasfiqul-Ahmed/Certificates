@@ -1,2 +1,2 @@
 # Certificates
- This directory contains certificates/achievements in my carrier
+ This directory contains certificates/achievements of various fields in my carrier of computer science and engineering
